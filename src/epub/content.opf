@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Princess and the Goblin</dc:title>
 		<meta property="file-as" refines="#title">Princess and the Goblin, The</meta>
 		<dc:subject id="subject-1">Fantasy</dc:subject>
@@ -34,19 +34,22 @@
 		<dc:subject id="subject-3">Children's stories</dc:subject>
 		<dc:subject id="subject-4">Goblins -- Juvenile fiction</dc:subject>
 		<dc:subject id="subject-5">Princesses -- Juvenile fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/708</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/708</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/708</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/708</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/708</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85047157</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85023780</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008109767</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Childrens</meta>
 		<dc:description id="description">A princess and her young friend valiantly fend off a goblin attack with help from a ghostly relative.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Princess and the Goblin&lt;/i&gt; is a children’s fantasy novel in the vein of the best classic fairy tales. The simple narrative follows Princess Irene as she discovers a ghostly relative living in a castle tower only she can access. During a walk outside one day, she encounters the threat of the lair of goblins living near the castle—and meets a new friend, a young miner named Curdie. She and Curdie must stop the goblin threat before they can carry out their evil plot.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/708</dc:source>
 		<dc:source>https://books.google.com/books?id=HioVAAAAQAAJ</dc:source>
