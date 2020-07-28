@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-9.xhtml">
-		<ignore>
-			<code>t-002</code>
-			<reason>Matched text has punctuation within the quotes.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
