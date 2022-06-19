@@ -43,7 +43,7 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008109767</meta>
-		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">A princess and her young friend valiantly fend off a goblin attack with help from a ghostly relative.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
