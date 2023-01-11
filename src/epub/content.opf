@@ -29,7 +29,7 @@
 		<dc:title id="title">The Princess and the Goblin</dc:title>
 		<meta property="file-as" refines="#title">Princess and the Goblin, The</meta>
 		<dc:subject id="subject-1">Fantasy</dc:subject>
-		<dc:subject id="subject-2">Fiary tales</dc:subject>
+		<dc:subject id="subject-2">Fairy tales</dc:subject>
 		<dc:subject id="subject-3">Children's stories</dc:subject>
 		<dc:subject id="subject-4">Goblins -- Juvenile fiction</dc:subject>
 		<dc:subject id="subject-5">Princesses -- Juvenile fiction</dc:subject>
