@@ -36,7 +36,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047157</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="term" refines="#subject-2">sh85046925</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85023780</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
