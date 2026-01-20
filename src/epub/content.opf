@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/708</dc:source>
 		<dc:source>https://books.google.com/books?id=HioVAAAAQAAJ</dc:source>
-		<meta property="se:word-count">51774</meta>
+		<meta property="se:word-count">51025</meta>
 		<meta property="se:reading-ease.flesch">79.7</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Princess_and_the_Goblin</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-macdonald_the-princess-and-the-goblin</meta>
