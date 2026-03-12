@@ -46,6 +46,9 @@
 		<meta property="term" refines="#subject-5">sh2008109767</meta>
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fantasy</meta>
+		<meta id="collection-1" property="belongs-to-collection">Curdie</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A princess and her young friend valiantly fend off a goblin attack with help from a ghostly relative.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Princess and the Goblin&lt;/i&gt; is a children’s fantasy novel in the vein of the best classic fairy tales. The simple narrative follows Princess Irene as she discovers a ghostly relative living in a castle tower only she can access. During a walk outside one day, she encounters the threat of the lair of goblins living near the castle—and meets a new friend, a young miner named Curdie. She and Curdie must stop the goblin threat before they can carry out their evil plot.&lt;/p&gt;
