@@ -33,8 +33,8 @@
 		<dc:subject id="subject-1">Fantasy</dc:subject>
 		<dc:subject id="subject-2">Fairy tales</dc:subject>
 		<dc:subject id="subject-3">Children's stories</dc:subject>
-		<dc:subject id="subject-4">Goblins -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-5">Princesses -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-4">Goblins--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-5">Princesses--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047157</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
